@@ -1,4 +1,8 @@
 _repo: Die-Ursache-Erzahlung_46928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46928-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Frank, Leonhard
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '34488'
     url: http://www.gutenberg.org/2009/agents/34488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46928#Die-Ursache-Erzahlung
 gutenberg_issued: '2014-09-22'
 gutenberg_type: Text
 identifiers:
